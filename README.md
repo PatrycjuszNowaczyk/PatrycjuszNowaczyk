@@ -41,12 +41,12 @@ cozy house for my mother near the forest. Thanks for stopping by! Let's connect 
 
 <div width="100%" align="center">
     <a href="https://github.com/patrycjusznowaczyk/jobjet-frontend" align="left">
-        <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=jobjet-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left"  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=jobjet-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/patrycjusznowaczyk/jobjet-backend" align="left">
-        <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=jobjet-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=jobjet-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
     <a href="https://github.com/patrycjusznowaczyk/gemini" align="left">
-        <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=gemini&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=patrycjusznowaczyk&repo=gemini&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
