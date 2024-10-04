@@ -21,7 +21,7 @@ cozy house for my mother near the forest. Thanks for stopping by! Let's connect 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,gitlab,phpstorm,nodejs,webpack,gulp,js,ts,html,css,scss,bootstrap,tailwind,react,redux,materialui,gatsby,nextjs,php,symfony,wordpress,mysql,postman,md,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,gitlab,phpstorm,nodejs,webpack,gulp,js,ts,html,css,scss,bootstrap,tailwind,react,redux,materialui,gatsby,nextjs,php,symfony,wordpress,mysql,postman,md,figma&perline=6)](https://skillicons.dev)
 
 ### Socials
 
