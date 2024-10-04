@@ -14,7 +14,7 @@ I'm not only working on advancing my technical skills but also planning a person
 cozy house for my mother near the forest. Thanks for stopping by! Let's connect and collaborate. 🚀
 
 * 🌍 I'm based in Poznań
-* 🖥️ See my portfolio at [https://patrycjusznowaczyk.github.io](http://patrycjusznowaczyk.github.io)
+* 🖥️ See my portfolio at [https://patrycjusznowaczyk.github.io](https://patrycjusznowaczyk.github.io)
 * ✉️ You can contact me at [patrycjusz.nowaczyk@gmail.com](mailto:patrycjusz.nowaczyk@gmail.com)
 * 🧠 I'm learning Symfony, Next.js (TypeScript)
 * 🤝 I'm open to collaborating on Web apps based on React.
