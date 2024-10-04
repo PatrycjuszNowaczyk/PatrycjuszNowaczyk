@@ -1,5 +1,5 @@
 Hi 👋, my name is Patrycjusz Nowaczyk
-===========================================================================================================================================
+========================================================================================================================
 
 Web Developer
 -------------
@@ -25,7 +25,6 @@ cozy house for my mother near the forest. Thanks for stopping by! Let's connect 
 
 ### Socials
 
-<p align="left">
 <a href="https://www.linkedin.com/in/patrycjusz-nowaczyk" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -33,5 +32,4 @@ cozy house for my mother near the forest. Thanks for stopping by! Let's connect 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </picture>
 </a>
-</p>
 
